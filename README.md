@@ -5,10 +5,6 @@ I'm J.D., a driven full stack developer proficient in JavaScript. I build apps i
 ![hello gif](https://piskel-imgstore-b.appspot.com/img/b50e2cde-26f4-11ec-8291-29b627f88a36.gif)
 
 <!--
-**jdshaeffer/jdshaeffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 -->
+
+[![J.D.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jdshaeffer)](https://github.com/anuraghazra/github-readme-stats)
