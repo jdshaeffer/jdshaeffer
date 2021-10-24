@@ -14,5 +14,3 @@ I'm J.D., a driven full stack developer proficient in JavaScript. I build apps i
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 -->
-
-[![J.D.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=jdshaeffer)](https://github.com/anuraghazra/github-readme-stats)
