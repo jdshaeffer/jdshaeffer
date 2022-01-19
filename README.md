@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm J.D., a driven full stack developer proficient in JavaScript. I build apps in React/Vue and Node.js.
-
-![hello gif](https://piskel-imgstore-b.appspot.com/img/b50e2cde-26f4-11ec-8291-29b627f88a36.gif)
+I'm J.D., a driven full stack developer proficient in JavaScript/TypeScript. I build apps in React/Vue and Node.js.
 
 <!--
 - 🔭 I’m currently working on ...
