@@ -1,4 +1,4 @@
-### hi there 👋
+### Hi there 👋
 
 I'm JD, a driven sofware engineer proficient in TypeScript and Python. I build apps in React and Node.js.
 
