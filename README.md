@@ -1,6 +1,6 @@
-### Hi there 👋
+### hi there 👋
 
-I'm J.D., a driven full stack developer proficient in JavaScript/TypeScript. I build apps in React/Vue and Node.js.
+I'm JD, a driven sofware engineer proficient in TypeScript and Python. I build apps in React and Node.js.
 
 <!--
 - 🔭 I’m currently working on ...
