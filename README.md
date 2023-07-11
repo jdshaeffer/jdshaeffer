@@ -1,6 +1,9 @@
 ## hi 👋
 
-I'm JD, a driven sofware engineer proficient in TypeScript and Python. I build apps in React/Svelte and Node.
+i'm jd, i build applications in ts/js/react/node/python/flask/gql/psql, etc etc
+
+- sr software eng at butterfly network
+- pronouns: he/him/his
 
 <!--
 - 🔭 I’m currently working on ...
