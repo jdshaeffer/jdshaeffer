@@ -1,9 +1,9 @@
-## hi 👋
+## Hi 👋
 
-i'm jd, i build applications in ts/js/react/node/python/flask/gql/psql, etc etc
+I'm JD, I build applications in TS/JS/React/Node/Python/Flask/GraphQL/PostgreSQL, etc etc
 
-- sr software eng at butterfly network
-- pronouns: he/him/his
+- Sr software eng at Butterfly Network, Inc
+- Pronouns: He/him/his
 
 <!--
 - 🔭 I’m currently working on ...
