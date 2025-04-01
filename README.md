@@ -3,7 +3,6 @@
 I'm JD, I build applications in TS/JS/React/Node/Python/Flask/GraphQL/PostgreSQL, etc etc
 
 - Software Development Engineer at Workday
-- Pronouns: He/him
 
 <!--
 - 🔭 I’m currently working on ...
